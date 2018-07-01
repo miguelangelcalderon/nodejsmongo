@@ -1,0 +1,23 @@
+{
+    "name": "API-REST-NODE",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Miguel Calderon",
+    "main": "app.mongoSeries.js",
+    "scripts": {
+        "start": "node app.mongoSeries.js"
+    },
+    "contributors": [],
+    "dependencies": {
+        "express": "^4.16.2",
+        "method-override": "^2.3.10",
+        "mongoose": "^5.0.4",
+        "mysql": "^2.15.0"
+    }
+}
